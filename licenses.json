@@ -1,12 +1,9 @@
 {
  "v": 1,
- "updated": "2026-11-16T08:05:24.122Z",
- "entries": [
-  {
-   "c": "f7f0f0da4f550a442a8f48a6d8f4d5b21d0fd03006985117e58382eac047e339",
-   "k": "JRV1.eyJ2IjoxLCJpZCI6IjNlZmRkZTNmIiwiZCI6IkNXMjctT0EyWi1LRkk3IiwiYiI6IiIsImkiOjIwNzczLCJ1IjoyMTEzOH0.5P8-pDQEkmqn0OMkTalDfizGx6M8OjL2R1HGVCr3hB2W82gYQXkgVrvKCy2a3Jg-a4jqBZG5NbpTAljgYwYzSQ"
-  }
+ "updated": "2026-11-16T08:57:51.296Z",
+ "entries": [],
+ "revoked": [
+  "3efdde3f"
  ],
- "revoked": [],
- "sig": "2LKFemjMbHvcnpMNdl5ECeL6Kad_TTubpq4yRYEU1DROHAZGcka53vKc0wIR9TQj-TOJXBgIoENl4ilL_TZsnQ"
+ "sig": "TUKkmYkBluYdSU9MkEVlhcLgNop2Y6-RiVSYvLkE7NEj4-YQ9srPP4L_o-BY_8StJdlSSHqfqgZJWIoykAO_Fg"
 }
