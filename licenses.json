@@ -1,9 +1,12 @@
 {
  "v": 1,
- "updated": "2026-11-16T08:57:54.717Z",
- "entries": [],
- "revoked": [
-  "3efdde3f"
+ "updated": "2026-11-16T08:58:03.771Z",
+ "entries": [
+  {
+   "c": "f7f0f0da4f550a442a8f48a6d8f4d5b21d0fd03006985117e58382eac047e339",
+   "k": "JRV1.eyJ2IjoxLCJpZCI6IjNlZmRkZTNmIiwiZCI6IkNXMjctT0EyWi1LRkk3IiwiYiI6IiIsImkiOjIwNzczLCJ1IjoyMTEzOH0.5P8-pDQEkmqn0OMkTalDfizGx6M8OjL2R1HGVCr3hB2W82gYQXkgVrvKCy2a3Jg-a4jqBZG5NbpTAljgYwYzSQ"
+  }
  ],
- "sig": "bkGFruarS2aGDBA5OzhiAN0dZWS2aWGOyHhPlRYGwLI4GALEIMoBnEUohyQCTAsLWPCVTkq_g0EX2EtGAu7GnQ"
+ "revoked": [],
+ "sig": "NCchR7o8W7M5xIpuRN-PLnYroyzT5lSs8UVOwWZ7TCa-LhlmNmpbzcg7gFUykkA3uItWUo-XyGLArUQP5wHqEA"
 }
